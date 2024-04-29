@@ -1,1 +1,1 @@
-![Visitor Count](https://profile-counter.glitch.me/{mirjalol-jabborov}/count.svg)
+![](https://komarev.com/ghpvc/?username=mirjalol-jabborov)
